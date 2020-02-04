@@ -9,7 +9,7 @@ The workshop is divided into 2 parts. The first will focus on the use of Core an
 
 # Workshop Labs
 Part I:
- * Lab 1.1 - Workshop Setup
+ * Lab 1.1 - [Workshop Setup](labs/workshop-setup/workshop-setup.md)
  * Lab 1.2 - Create job from catalog
  * Lab 1.3 - Unit tet fail and fix, re-run, and preview environment
  * Lab 1.4 - Rollout API Key and adding code to app

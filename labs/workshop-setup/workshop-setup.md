@@ -1,4 +1,4 @@
-# Workshop Setup
+# Core Workshop Setup
 
 ## CloudBees Core Team Master Set-up
 Setup a work environment for the labs provided in this workshop.  Ask the instructor for the URL of the server you will be using during the workshop.

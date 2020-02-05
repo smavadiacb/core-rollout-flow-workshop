@@ -1,5 +1,6 @@
 # Core Workshop Setup
-![CloudBees Core Logo](images/cloudbeescore_logo.png | width=100)
+<img src="images/cloudbeescore_logo.png" alt="CloudBees Core Logo" width="100" style="float: right;">
+
 
 ## CloudBees Core Team Master Set-up
 Setup a work environment for the labs provided in this workshop.  Ask the instructor for the URL of the server you will be using during the workshop.

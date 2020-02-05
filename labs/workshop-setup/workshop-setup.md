@@ -1,5 +1,4 @@
-# Core Workshop Setup
-<img src="images/cloudbeescore_logo.png" alt="CloudBees Core Logo" width="100" style="float: right;">
+# Core Workshop Setup <img src="images/cloudbeescore_logo.png" alt="CloudBees Core Logo" width="100" style="float: right;">
 
 
 ## CloudBees Core Team Master Set-up

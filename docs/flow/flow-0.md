@@ -22,3 +22,12 @@ layout: true
 ---
 name: agenda
 # Agenda
+
+1. Flow Workshop Basics
+2. Setup for Labs
+3. Setup Environment
+4. Setup Application Model and Process
+5. Setup Pipeline and Run it
+6. Setup Release and Run it
+7. Setup The Demo Release and Run it
+8. Reports and Dashboards Overview
